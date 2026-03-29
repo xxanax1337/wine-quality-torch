@@ -1,0 +1,12 @@
+Test Loss: 0.4067
+Mean Error: 0.6377
+ bottle 1: Predicted 5.27 | Actual 6.0
+ bottle 2: Predicted 5.13 | Actual 5.0
+ bottle 3: Predicted 5.37 | Actual 6.0
+ bottle 4: Predicted 5.48 | Actual 5.0
+ bottle 5: Predicted 5.90 | Actual 6.0
+ bottle 6: Predicted 5.25 | Actual 5.0
+ bottle 7: Predicted 5.30 | Actual 5.0
+ bottle 8: Predicted 4.77 | Actual 5.0
+ bottle 9: Predicted 6.03 | Actual 5.0
+ bottle 10: Predicted 5.94 | Actual 6.0
